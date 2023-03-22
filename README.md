@@ -25,8 +25,14 @@ Some of the challenges I faced:
 
 
 ## Future Enhancements 
+
 - Ability to input a keyword for jokes
 - option for several part jokes
 
 ## Link To Get Joke
 http://127.0.0.1:5500
+
+<img width="1437" alt="Screenshot 2023-03-22 at 3 31 50 PM" src="https://user-images.githubusercontent.com/128634690/227034141-6f9c947c-115c-43ea-a3af-0f23fce2d544.png">
+
+<img width="1437" alt="Screenshot 2023-03-22 at 3 29 44 PM" src="https://user-images.githubusercontent.com/128634690/227034238-e2b2b556-c88d-4bfe-a892-a87f3deb64f9.png">
+
