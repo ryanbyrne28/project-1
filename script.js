@@ -3,9 +3,6 @@ const $newJoke = $('#joke')
 
 $('#btn').on('click', handleGetData);
 
-
-
-
 function handleGetData(event) {
     const settings = {
         "async": true,
@@ -22,3 +19,4 @@ function handleGetData(event) {
         console.log(response); 
         $newJoke.text(response.joke)
     });
+}
