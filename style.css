@@ -1,0 +1,40 @@
+body {
+    margin: 0;
+    background: linear-gradient(to left bottom, salmon, grey, darkgrey);
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.container  {
+    background-color: (darkred, .3);
+    padding: 18px;
+    box-shadow: 0 6px 10px rgba(0, 0, 0, .3);
+    border-radius: 10px;
+    width: 80%;
+    text-align: center;
+}
+
+.heading{
+    font-size: 40px;
+    font-weight: 200;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    letter-spacing: 1px;
+}
+
+.joke{
+    font-size: 20px;
+    margin: 35px;
+}
+
+.btn {
+    font-size: 18px;
+    font-weight: 600;
+    border-radius: 3px;
+    padding: 10px;
+    background-color: darkgray;
+    border-color: crimson;
+    text-transform: capitalize;
+}
